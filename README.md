@@ -1,2 +1,2 @@
 # 3SIA-Dilan
-Exercício git
+Área para guardar documentos do projeto
